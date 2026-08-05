@@ -36,7 +36,7 @@ The in-app update check now runs in a localization-safe mode. It only checks whe
 
 1. 如果还没有运行过游戏，请先运行一次，让游戏创建用户配置文件和模组文件夹。
 2. 确保已安装 [.NET 8.0 桌面运行时](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.15-windows-x64-installer) 和[最新版 C++ 运行库](https://aka.ms/vs/17/release/vc_redist.x64.exe)。
-3. 汉化版发布包请前往本仓库的 [Releases 页面](https://github.com/shaoyi906824347-bit/BG3ModManager-CHS/releases) 下载；原始项目的官方英文版可以在[这里下载](https://github.com/LaughingLeader/BG3ModManager/releases/latest/download/BG3ModManager_Latest.zip)。
+3. 汉化版发布包请前往本仓库的 [Releases 页面](https://github.com/AltEscTab/BG3ModManager-CHS/releases) 下载；原始项目的官方英文版可以在[这里下载](https://github.com/LaughingLeader/BG3ModManager/releases/latest/download/BG3ModManager_Latest.zip)。
 4. BG3 模组管理器是便携式程序，请将它解压到普通文件夹中，不要解压到 `Program Files` 等受保护目录。
 5. 启动 `BG3ModManager.exe` 后，程序通常会自动识别游戏 Data 文件夹和游戏程序路径。
 
@@ -81,8 +81,8 @@ The in-app update check now runs in a localization-safe mode. It only checks whe
 
 ## 链接
 
-* [汉化版仓库](https://github.com/shaoyi906824347-bit/BG3ModManager-CHS)
-* [汉化版发布页面](https://github.com/shaoyi906824347-bit/BG3ModManager-CHS/releases)
+* [汉化版仓库](https://github.com/AltEscTab/BG3ModManager-CHS)
+* [汉化版发布页面](https://github.com/AltEscTab/BG3ModManager-CHS/releases)
 * [原始项目官方仓库](https://github.com/LaughingLeader/BG3ModManager)
 * [原始项目更新日志](https://github.com/LaughingLeader/BG3ModManager/wiki/Changelog)
 * [Leader's Lair Discord 社区](https://discord.gg/j5gp6MD)
